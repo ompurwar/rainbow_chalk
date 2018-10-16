@@ -1,4 +1,4 @@
-# Rainbow_Chalk
+# **Rainbow_Chalk**
 
  A package to color the text and create timestamped logs string
 
@@ -39,3 +39,8 @@ console.log(myRainbow.magenta("this magenta text"));
 console.log(myRainbow.lightYellow("this light yellow text"));
 console.log(myRainbow.invertBg("this inverted background text"));
 ```
+
+## **Output will be**
+
+> ## **Result**
+>![result](./rainbow_chalk.png)
