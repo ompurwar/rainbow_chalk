@@ -1,0 +1,33 @@
+{
+  "name": "rainbow_chalk",
+  "version": "1.0.0",
+  "description": "A package to color the text and create timestamped logs strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ompurwar/rainbow_chalk.git"
+  },
+  "keywords": [
+    "rainbow_chalk",
+    "chalk",
+    "color",
+    "logger",
+    "timestamp",
+    "log",
+    "error",
+    "log",
+    "info",
+    "log",
+    "waring",
+    "log"
+  ],
+  "author": "Om Purwar <ompurwar96@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ompurwar/rainbow_chalk/issues"
+  },
+  "homepage": "https://github.com/ompurwar/rainbow_chalk#readme"
+}
