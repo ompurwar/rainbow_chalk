@@ -1,6 +1,6 @@
 {
   "name": "rainbow_chalk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to color the text and create timestamped logs strings",
   "main": "index.js",
   "scripts": {
