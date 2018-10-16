@@ -12,17 +12,14 @@
   },
   "keywords": [
     "rainbow_chalk",
-    "chalk",
-    "color",
+    "chalk_rainbow",
+    "color_string",
     "logger",
     "timestamp",
-    "log",
-    "error",
-    "log",
-    "info",
-    "log",
-    "waring",
-    "log"
+    "color_log",
+    "info_logs",
+    "error_logs",
+    "Warning_logs"
   ],
   "author": "Om Purwar <ompurwar96@gmail.com>",
   "license": "ISC",
