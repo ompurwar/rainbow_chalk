@@ -43,4 +43,4 @@ console.log(myRainbow.invertBg("this inverted background text"));
 ## **Output will be**
 
 > ## **Result**
->![result](./rainbow_chalk.png)
+>![result](./rainbow_chalk.PNG)
